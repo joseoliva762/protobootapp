@@ -27,7 +27,7 @@ phases:
       java: corretto17
       # name: version
     #commands:
-      # - command
+      # - commandl
       # - command
   #pre_build:
     #commands:
